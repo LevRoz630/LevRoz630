@@ -46,8 +46,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LevRoz630&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LevRoz630&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LevRoz630&theme=github-dark-blue&hide_border=true)
@@ -60,6 +58,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levrozanov)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LevRoz630&color=4493F8&style=flat)
 
 </div>
