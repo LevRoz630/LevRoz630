@@ -9,8 +9,8 @@
 ### About Me
 
 - Studying **Mathematics & Economics** at the **University of St Andrews**
-- Modelling **energy markets** at [ENODA](https://enoda.io)
-- Building [Project Paradise](https://github.com/LevRoz630/Project-Paradise) — quantitative trading infrastructure
+- Modelling **energy markets** at [ENODA](https://enoda.com)
+- Building [Project Paradise](https://project-paradise.co.uk) — quantitative trading infrastructure
 - Competing in trading competitions, hackathons, and algorithmic challenges
 
 ---
@@ -34,12 +34,11 @@
 
 | Project | Description |
 |---------|-------------|
+| [**HKU Avenir**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Multi-strategy pairs trading system — top 11 globally in 12-week live crypto trading competition |
+| [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | Algorithmic trading strategies for the Imperial College algorithmic competition |
+| [**Claude Sandbox**](https://github.com/LevRoz630/claude-sandbox-devcontainer) | Secure Docker sandbox for Claude Code with firewall, security hooks, and 1Password integration |
 | [**Project Paradise**](https://github.com/LevRoz630/Project-Paradise) | Quantitative trading infrastructure and backtesting platform |
-| [**Daily Research Digest**](https://github.com/LevRoz630/daily-research-digest) | AI-powered Semantic Scholar paper digest with LLM-based ranking |
 | [**IMC Prosperity 4**](https://github.com/LevRoz630/imc-prosperity-4) | Algorithmic trading strategies for the IMC Prosperity competition |
-| [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | Solutions for the Imperial College algorithmic trading competition |
-| [**BlackRock Hackathon 2026**](https://github.com/LevRoz630/blackrock-hackathon-2026) | Hackathon project built at BlackRock |
-| [**Durak RL**](https://github.com/LevRoz630/durak-reinforcement-learning) | Reinforcement learning agent for the card game Durak |
 
 ---
 
