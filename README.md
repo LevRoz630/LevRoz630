@@ -46,8 +46,8 @@ I'm interested in quantitative trading, machine learning, and building tools tha
 <a href="https://github.com/LevRoz630/Project-Paradise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=Project-Paradise&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/LevRoz630/imc-prosperity-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=imc-prosperity-4&theme=github_dark&hide_border=true" />
+<a href="https://github.com/LevRoz630/imc-prosperity-2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=imc-prosperity-2025&theme=github_dark&hide_border=true" />
 </a>
 
 ---
