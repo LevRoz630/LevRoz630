@@ -53,17 +53,6 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
 
 ---
 
-<details open>
-  <summary><h2>GitHub Stats</h2></summary>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LevRoz630&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-</details>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/levrozanov">
     <img src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
