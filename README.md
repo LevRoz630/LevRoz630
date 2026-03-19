@@ -41,27 +41,13 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
 <details open>
   <summary><h2>Featured Projects</h2></summary>
 
-  <p>
-    <a href="https://github.com/LevRoz630/hku-avenir-2nd-round">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=hku-avenir-2nd-round&theme=github_dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/LevRoz630/imperial-algothon-2026">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=imperial-algothon-2026&theme=github_dark&hide_border=true" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/LevRoz630/claude-sandbox-devcontainer">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=claude-sandbox-devcontainer&theme=github_dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/LevRoz630/Project-Paradise">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=Project-Paradise&theme=github_dark&hide_border=true" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/LevRoz630/imc-prosperity-2025">
-      <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LevRoz630&repo=imc-prosperity-2025&theme=github_dark&hide_border=true" />
-    </a>
-  </p>
+  | Project | Description |
+  |---------|-------------|
+  | [**HKU Avenir**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Top 11 worldwide — pairs trading, cointegration, and HMM regime detection on crypto futures |
+  | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 24-hour trading system for synthetic products derived from Thames tides, weather, and flight data |
+  | [**Claude Sandbox**](https://github.com/LevRoz630/claude-sandbox-devcontainer) | Secure Docker sandbox for Claude Code with firewall, security hooks, and 1Password integration |
+  | [**Project Paradise**](https://github.com/LevRoz630/Project-Paradise) | Group for quantitative and ML research |
+  | [**IMC Prosperity 3**](https://github.com/LevRoz630/imc-prosperity-2025) | Market-making, ARIMA forecasting, and statistical arbitrage strategies |
 
 </details>
 
