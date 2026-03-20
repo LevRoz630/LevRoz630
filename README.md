@@ -10,6 +10,14 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
 
 ---
 
+## What I'm up to now
+
+Currently building an [agentic Durak simulation](https://github.com/LevRoz630/durak-reinforcement-learning) with multi-agent RL. Going abroad to Bocconi (Sep–Dec 2026) and HKU (Jan–Jun 2027), applying to Tsinghua for summer school. Working on something in personal finance behavioural modelling. Always up for trading competitions — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lev-rozanov/) [![Email](https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:l.rozanov@outlook.com)
+
+---
+
 <details open>
   <summary><h2>Tech Stack</h2></summary>
 
@@ -63,19 +71,3 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
   | [**Claude Sandbox**](https://github.com/LevRoz630/claude-sandbox-devcontainer) | Secure Docker sandbox for Claude Code with firewall, security hooks, and 1Password integration |
 
 </details>
-
----
-
-Currently building an [agentic Durak simulation](https://github.com/LevRoz630/durak-reinforcement-learning) with multi-agent RL. Going abroad to Bocconi (Sep–Dec 2026) and HKU (Jan–Jun 2027), applying to Tsinghua for summer school. Working on something in personal finance behavioural modelling. Always up for trading competitions — reach out.
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/levrozanov">
-    <img src="https://img.shields.io/badge/-1F222E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:l.rozanov@outlook.com">
-    <img src="https://img.shields.io/badge/-1F222E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
