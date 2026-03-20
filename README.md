@@ -46,7 +46,6 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
   |---------|-------------|
   | [**HKU Avenir**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Top 11 worldwide — pairs trading, cointegration, and HMM regime detection on crypto futures |
   | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 24-hour trading system for synthetic products derived from Thames tides, weather, and flight data |
-  | [**Claude Sandbox**](https://github.com/LevRoz630/claude-sandbox-devcontainer) | Secure Docker sandbox for Claude Code with firewall, security hooks, and 1Password integration |
   | [**Project Paradise**](https://github.com/LevRoz630/Project-Paradise) | Group for quantitative and ML research |
   | [**IMC Prosperity 3**](https://github.com/LevRoz630/imc-prosperity-2025) | Market-making, ARIMA forecasting, and statistical arbitrage strategies |
 
@@ -61,6 +60,7 @@ I'm a **Maths & Economics** student at the **University of St Andrews**, modelli
   |----------|-------------|
   | [**Study Material Template**](https://github.com/LevRoz630/study-material-template) | PDF lecture notes to markdown to Anki flashcards — with Claude Code skills for conversion, flashcard generation, and worked solutions |
   | [**Job Application Template**](https://github.com/LevRoz630/job-application-template) | Track applications, scan for openings, draft cover letters, and compile multi-variant LaTeX CVs — with a 24-pattern AI writing detector |
+  | [**Claude Sandbox**](https://github.com/LevRoz630/claude-sandbox-devcontainer) | Secure Docker sandbox for Claude Code with firewall, security hooks, and 1Password integration |
 
 </details>
 
