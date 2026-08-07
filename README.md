@@ -1,18 +1,21 @@
-<p align="center">
-  <a href="https://github.com/LevRoz630">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Lev+Rozanov;Quantitative+Research+%26+Trading;Energy+Markets+%40+ENODA;Founder+of+Project+Paradise" alt="Typing SVG" />
-  </a>
-</p>
+# Lev Rozanov
+### Quantitative Research · Energy Markets · Behavioural Science
 
 <br/>
 
-I'm a **Maths & Economics** student at the **University of St Andrews**, modelling energy markets at [ENODA](https://enoda.com) and running [Project Paradise](https://project-paradise.co.uk) — a group for quantitative and ML research. I spend my free time competing in trading competitions and hackathons.
+I'm a **Maths & Economics** student at the **University of St Andrews**.
+
+I work as an Economics Analyst at [ENODA](https://enoda.com) (data pipelines, ML modelling, infrastructure; mostly under NDA), and as a Behavioural Data Analyst at [One for the World](https://1fortheworld.org), building out their A/B testing platform and running experiments.
+
+Previously ran **Project Paradise**, a group of 8 supervisors from top quant trading firms and 20+ students from leading UK universities competing in algo trading and ML competitions.
+
+Free time goes to socialising and exploring how much there is to life.
 
 ---
 
 ## What I'm up to now
 
-Currently building an [agentic Durak simulation](https://github.com/LevRoz630/durak-reinforcement-learning) with multi-agent RL. Going abroad to Bocconi (Sep–Dec 2026) and HKU (Jan–Jun 2027), applying to Tsinghua for summer school. Working on something in personal finance behavioural modelling. Always up for trading competitions — reach out.
+Currently on exchange at **Università Bocconi** studying economics (Sep–Dec 2026), then heading to **The University of Hong Kong (香港大學)** for maths (Jan–Jun 2027). Building an [agentic Durak simulation](https://github.com/LevRoz630/durak-reinforcement-learning) with multi-agent RL on the side. Always up for start-up collabs, competitions, and hackathons. Shoot me a message on [LinkedIn](https://www.linkedin.com/in/lev-rozanov/).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lev-rozanov/) [![Email](https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:l.rozanov@outlook.com)
 
@@ -54,7 +57,6 @@ Currently building an [agentic Durak simulation](https://github.com/LevRoz630/du
   |---------|-------------|
   | [**HKU Avenir**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Top 11 worldwide — pairs trading, cointegration, and HMM regime detection on crypto futures |
   | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 24-hour trading system for synthetic products derived from Thames tides, weather, and flight data |
-  | [**Project Paradise**](https://github.com/LevRoz630/Project-Paradise) | Group for quantitative and ML research |
   | [**IMC Prosperity 3**](https://github.com/LevRoz630/imc-prosperity-2025) | Market-making, ARIMA forecasting, and statistical arbitrage strategies |
 
 </details>
