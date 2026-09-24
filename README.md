@@ -5,7 +5,7 @@
 
 I'm a **Maths & Economics** student at the **University of St Andrews**.
 
-I work as an Economics Analyst at [ENODA](https://enoda.com) (data pipelines, ML modelling, infrastructure; mostly under NDA), and as a Behavioural Data Analyst at [One for the World](https://1fortheworld.org), building out their A/B testing platform and running experiments.
+I worked as an Economics Analyst at [ENODA](https://enoda.com) (data pipelines, ML modelling, infrastructure; mostly under NDA), and as a Behavioural Data Analyst at [One for the World](https://1fortheworld.org), building out their A/B testing platform and running experiments.
 
 Previously ran **Project Paradise**, a group of 8 supervisors from top quant trading firms and 20+ students from leading UK universities competing in algo trading and ML competitions.
 
