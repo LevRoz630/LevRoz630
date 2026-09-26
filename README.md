@@ -27,7 +27,6 @@ Currently on exchange at **Università Bocconi** studying economics (Sep–Dec 2
   <h4>Languages</h4>
 
   ![Python](https://img.shields.io/badge/Python-1F222E?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-1F222E?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-1F222E?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-1F222E?style=for-the-badge&logo=javascript&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-1F222E?style=for-the-badge&logo=latex&logoColor=white)
@@ -51,13 +50,16 @@ Currently on exchange at **Università Bocconi** studying economics (Sep–Dec 2
 ---
 
 <details open>
-  <summary><h2>Featured Projects</h2></summary>
+  <summary><h2>Hackathons & Competitions</h2></summary>
 
-  | Project | Description |
-  |---------|-------------|
-  | [**HKU Avenir**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Top 11 worldwide — pairs trading, cointegration, and HMM regime detection on crypto futures |
-  | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 24-hour trading system for synthetic products derived from Thames tides, weather, and flight data |
-  | [**IMC Prosperity 3**](https://github.com/LevRoz630/imc-prosperity-2025) | Market-making, ARIMA forecasting, and statistical arbitrage strategies |
+  | Event | Result | Description |
+  |-----------|--------|-------------|
+  | [**ETHRome 2026 — Hydra**](https://github.com/LevRoz630/agent-memory-mesh) | 🏆 Winner, Arkiv track · solo | Self-healing AI agent fleet that finishes a failed peer's work with no central coordinator |
+  | [**START Hack St. Gallen 2026**](https://github.com/LevRoz630/starthack-2026) | Team build | Real-time AI briefing assistant for private bankers during market moves |
+  | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 🏆 Highest Trade Volume Award | Market-making and scalping bot (Avellaneda–Stoikov-inspired) |
+  | [**BlackRock Hackathon 2026 — SpendZen**](https://github.com/LevRoz630/blackrock-hackathon-2026) | Team lead · judges recommended pitching to VCs | Open-banking app that pauses impulsive purchases, with ML-flagged high-risk spending |
+  | [**HKU x Avenir Crypto Trading**](https://github.com/LevRoz630/hku-avenir-2nd-round) | Top 11 worldwide | Pairs trading, cointegration, and HMM regime detection on crypto futures |
+  | [**DRW Crypto Market Prediction**](https://github.com/LevRoz630/drw-market-prediction) | Kaggle competition · team | Feature selection and gradient-boosted ensembles on order-book data |
 
 </details>
 
