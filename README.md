@@ -58,7 +58,7 @@ Currently on exchange at **Università Bocconi** studying economics (Sep–Dec 2
   | [**START Hack St. Gallen 2026**](https://github.com/LevRoz630/starthack-2026) | Team build | Real-time AI briefing assistant for private bankers during market moves |
   | [**Imperial Algothon 2026**](https://github.com/LevRoz630/imperial-algothon-2026) | 🏆 Highest Trade Volume Award | Market-making and scalping bot (Avellaneda–Stoikov-inspired) |
   | [**BlackRock Hackathon 2026 — SpendZen**](https://github.com/LevRoz630/blackrock-hackathon-2026) | Team lead · judges recommended pitching to VCs | Open-banking app that pauses impulsive purchases, with ML-flagged high-risk spending |
-  | [**HKU x Avenir Crypto Trading**](https://github.com/LevRoz630/hku-avenir-2nd-round) | 🏆 Top 11 worldwide | Pairs trading, cointegration, and HMM regime detection on crypto futures |
+  | [**HKU x Avenir Crypto Trading**](https://github.com/LevRoz630/hku-avenir-2nd-round) | 🏆 Top 11 of 1,000+ teams worldwide | Pairs trading, cointegration, and HMM regime detection on crypto futures |
   | [**DRW Crypto Market Prediction**](https://github.com/LevRoz630/drw-market-prediction) | Kaggle competition · team | Feature selection and gradient-boosted ensembles on order-book data |
 
 </details>
